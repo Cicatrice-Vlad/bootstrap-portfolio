@@ -18,6 +18,10 @@ Cards have been used for that matter as well as hyperlinks and buttons.
 
 ![downloaded image of me](https://user-images.githubusercontent.com/117217710/207464103-00288c62-014a-44e9-aa7b-a9d3a3dedc65.png)
 
+## Links
+
+The link to the project is as follows: 
+
 ## Credits
 
 N/A, worked alone on the project.
