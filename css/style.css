@@ -6,17 +6,5 @@
   height: 200px;
 }
 
-
-<div id="contact-div">
-      <a href="mailto:vladbargaoanu@yahoo.com">
-        <p>Email address: vladbargaoanu@yahoo.com</p>
-      </a>
-      <a href="https://www.linkedin.com/in/barga-g-ltd/" target="_blank">
-        <p>LinkedIn</p>
-      </a>
-
-      <p>📱 Mobile number: +44 7460 134 683</p>
-      <a href="https://twitter.com/saaawweerrrt" target="_blank">
-        <p><i class="fa fa-twitter" style="font-size: 24px"></i>Twitter</p></a
-      >
-    </div>
+@media screen and (max-width: 640) {
+}
