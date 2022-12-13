@@ -50,8 +50,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
 
