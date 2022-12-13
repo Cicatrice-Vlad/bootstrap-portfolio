@@ -5,7 +5,12 @@
 #profilePicture {
   height: 200px;
 }
-
+@media only screen and (max-width: 620px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width: 100%;
+  }
+}
 /* @media screen and (max-width: 600) {
 } */
 /* Not too much CSS in this file for the project due to the requirements of using the Bio project as a Bootstrap example in which mostly HTML would be used. Please advise if else was expected. Thank you! */
