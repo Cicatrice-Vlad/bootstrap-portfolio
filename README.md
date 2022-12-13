@@ -20,7 +20,7 @@ Cards have been used for that matter as well as hyperlinks and buttons.
 
 ## Links
 
-The link to the project is as follows: 
+The link to the project is as follows: https://cicatrice-vlad.github.io/bootstrap-portfolio/
 
 ## Credits
 
